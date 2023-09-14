@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ConsoleApp_Host": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development",
+        "Key_1": "Value_1"
+      }
+    }
+  }
+}
